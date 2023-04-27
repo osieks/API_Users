@@ -6,9 +6,9 @@ Swagger został użyty do udokumentowania API.
 
 EUVIC
 
-Opis zadania:
+    Opis zadania:
 
- Przygotuj API wraz z warstwą bazy danych, udostępniające trzy metody:
+    Przygotuj API wraz z warstwą bazy danych, udostępniające trzy metody:
 
      Metodę rejestrującą użytkownika realizującą:
     - Walidację pól rejestracji
@@ -19,4 +19,4 @@ Opis zadania:
     Metodę dostarczającą listę zarejestrowanych użytkowników
     Metodę pobierającą dane nt. wybranego użytkownika na podstawie E mail+Hasło
 
-Dane powinny być zapisywane do bazy danych, w razie braku bazy powinna być inicjalizowana na starcie aplikacji. Rozwiązanie powinno być wyposażone w Swaggera. 
+    Dane powinny być zapisywane do bazy danych, w razie braku bazy powinna być inicjalizowana na starcie aplikacji. Rozwiązanie powinno być wyposażone w Swaggera. 
