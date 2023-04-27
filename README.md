@@ -6,6 +6,8 @@ Swagger został użyty do udokumentowania API.
 
 EUVIC
 
+Moduł obsługujący rejestrację konta
+
     Opis zadania:
 
     Przygotuj API wraz z warstwą bazy danych, udostępniające trzy metody:
