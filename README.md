@@ -4,8 +4,6 @@ wyświetlanie listy zarejestrowanych użytkowników oraz pobieranie danych wybra
 Dane są przechowywane w bazie danych, która zostanie zainicjowana na początku działania aplikacji, jeśli jeszcze nie istnieje. 
 Swagger został użyty do udokumentowania API.
 
-EUVIC
-
 Moduł obsługujący rejestrację konta
 
     Opis zadania:
